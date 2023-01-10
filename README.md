@@ -6,7 +6,7 @@ Technology Stack Basics:
 - HTML,
 - CSS,
 - JIRA+TestFlo, 
-- SQL, 
+- MySQL, 
 - Postman, 
 - SoapUI,
 - DevTools, 
