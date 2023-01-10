@@ -1,6 +1,7 @@
 # portfolio
-About me: 
-I am a person who wants to develop in the field of IT, at the beginning I want to acquire skills as a manual tester. Organized, fast learning, ability to work under stress.
+
+I am a person who wants to develop in the field of IT, at the beginning I want to acquire skills as a manual tester. 
+Organized, fast learning, ability to work under stress.
 
 Technology Stack Basics: 
 - HTML,
