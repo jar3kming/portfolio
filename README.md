@@ -1,7 +1,6 @@
 # portfolio
 
-I am a person who wants to develop in the field of IT, at the beginning I want to acquire skills as a manual tester. 
-Organized, fast learning, ability to work under stress.
+I gained my first software experience during 'Manual Tester' course in Coders Lab. These were classes in methodology and work with software testing tools. I was implementing a test project on a real application using the Scrum methodology. I am preparing for the ISTQB exam. I am eager to develop my skills in IT business.
 
 Technology Stack Basics: 
 - HTML,
