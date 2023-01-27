@@ -8,6 +8,4 @@ Technology Stack Basics:
 - JIRA+TestFlo, 
 - MySQL, 
 - Postman, 
-- SoapUI,
 - DevTools, 
-- REST API,
